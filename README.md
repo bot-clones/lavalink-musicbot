@@ -1,15 +1,8 @@
-# Lavalink-MusicBot
-Music bot that uses Lavalink for its audio player.
+# Lavalink Musicbot
 
-## Prerequisites
-- [Lavalink server](https://github.com/freyacodes/Lavalink#server-configuration).
-- Node.js v12 or above.
+Tested here: https://discord.com/channels/333949691962195969/776972164745789443/881643566793916456
 
-## Usage
-- Rename `.env.example` to `.env` and replace those values with yours.
-- Install dependencies `npm i --production` or with yarn `yarn --prod`.
-- Running the bot `npm start`.
+``Your bot seems to be an unmodified instance of [Allvaa](https://github.com/bot-clones/lavalink-musicbot). We don't allow unmodified clones of other bots.``
 
-## Author
-- GitHub [@Allvaa](https://github.com/Allvaa)
-- Discord [allvzx#2840](https://discord.com/users/740075062190669884)
+## Help commands & Screenshots
+![command](https://i.imgur.com/X0HOerM.png)
